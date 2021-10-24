@@ -50,6 +50,7 @@ body {
     height: 100%;
     border-radius: 5px;
     backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
     position: absolute;
     text-align: center;
 }
